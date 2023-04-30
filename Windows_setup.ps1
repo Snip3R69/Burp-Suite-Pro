@@ -1,13 +1,11 @@
-# Name is Important
 echo "
-                #####    #     #    #####    #     #   #     # 
-               #     #   ##    #   #     #   #     #   ##    # 
-               #         # #   #   #         #     #   # #   # 
-                #####    #  #  #   #  ####   #  #  #   #  #  # 
-                     #   #   # #   #     #   #  #  #   #   # # 
-               #     #   #    ##   #     #   #  #  #   #    ## 
-                #####    #     #    #####     ## ##    #     # 
-"
+  _________      .__      __________________ 
+ /   _____/ ____ |__|_____\_____  \______   \
+ \_____  \ /    \|  \____ \ _(__  <|       _/
+ /        \   |  \  |  |_> >       \    |   \
+/_______  /___|  /__|   __/______  /____|_  /
+        \/     \/   |__|         \/       \/ 
+ "
 
 # Set Wget Progress to Silent, Becuase it slows down Downloading by +50x
 echo "Setting Wget Progress to Silent, Becuase it slows down Downloading by +50x`n"

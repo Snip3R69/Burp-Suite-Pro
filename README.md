@@ -10,10 +10,6 @@
 		C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
 
 -----------------------------------------------------------------------------------------------------------------
-# Burp Suite Professional Installation steps for Kali-Linux 
-	--> Execute Kali_Linux_Setup.sh file as root user
-
------------------------------------------------------------------------------------------------------------------
 # Burp Suite Pro Activation Steps 
 	1. Modify License String like "license to Siddharth"
 	2. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.
@@ -24,7 +20,6 @@
 -----------------------------------------------------------------------------------------------------------------
 # Executing Burp Suite Profession after Activation
 	--> Windows :-: You can start Burp Suite Professional from Start Menu.
-	--> Kali Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
 
 -----------------------------------------------------------------------------------------------------------------
 # Updating Burp Suite Professional -- Only Support upto 2022.8.5

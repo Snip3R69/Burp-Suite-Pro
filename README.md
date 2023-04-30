@@ -27,9 +27,6 @@
 
 -----------------------------------------------------------------------------------------------------------------
 # Videos For further Reference 	
-	--> Installing Burp Suite Professional in Kali Linux for Free
-[![Installing Burp Suite Professional in Kali Linux for Free](https://img.youtube.com/vi/N0KQrk77BBo/0.jpg)](https://www.youtube.com/watch?v=N0KQrk77BBo)
-
 	
 	--> Installing Burp Suite Professional in Windows for Free
 [![Installing Burp Suite Professional in Windows for Free](https://img.youtube.com/vi/j1AKdSYL6wE/0.jpg)](https://www.youtube.com/watch?v=j1AKdSYL6wE)
@@ -39,12 +36,8 @@
 [![Introduction to Burp Suite Professional -- Beginner to Intermediate](https://img.youtube.com/vi/L5euJM2Hxrg/0.jpg)](https://www.youtube.com/watch?v=L5euJM2Hxrg)
 
 
-	--> SSL Pinning Bypass Method 1 :-: 
-	Burp Suite Configuration for Android Applications and SSL Pinning Bypass.
-[![Burp Suite Configuration for Android Applications and SSL Pinning Bypass.](https://img.youtube.com/vi/1721lyUtfYY/0.jpg)](https://www.youtube.com/watch?v=1721lyUtfYY)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vxYkZnmB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snip3r.gg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbugade) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Snip3R_69) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BugadeSahil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3PlS8JRoQs341FXZg6J3pw) 
 
-
-	--> SSL Pinning Bypass Method 2 :-: 
-	Root Android Studio Device with Magisk and Install Burp Certificate in System Certificate Store.
-[![Root Android Studio Device with Magisk and Install Burp Certificate in System Certificate Store.](https://img.youtube.com/vi/qQicUW0svB8/0.jpg)](https://www.youtube.com/watch?v=qQicUW0svB8)
-[![Root Android Studio Device with Magisk and Install Burp Certificate in System Certificate Store.](https://img.youtube.com/vi/0nGkALom0jI/0.jpg)](https://www.youtube.com/watch?v=0nGkALom0jI)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snip3rgg) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SahilBugade) 
